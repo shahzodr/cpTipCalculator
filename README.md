@@ -1,6 +1,6 @@
 # Pre-work - *Tip Calculator*
 
-**Tiply** is a tip calculator application for iOS.
+**TipCalculatorApp** is a tip calculator application for iOS.
 
 Submitted by: **Shahzod R**
 
