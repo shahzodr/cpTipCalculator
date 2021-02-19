@@ -34,7 +34,7 @@ GIF created with [EZGIF](https://ezgif.com).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+#
 
 ## License
 
